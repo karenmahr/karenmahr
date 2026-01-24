@@ -1,5 +1,7 @@
 ## Welcome to my profile👋
 
+<img src="banner-github.png">
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,cs,html,css" />
