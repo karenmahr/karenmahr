@@ -1,4 +1,4 @@
-<h1 align="center"><b>Welcome to my profile👋 </b>></h1>
+<h1 align="center"><b>Welcome to my profile👋 </b></h1>
 
 <img src="banner-github.png">
 
