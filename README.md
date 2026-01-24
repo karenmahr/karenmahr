@@ -1,6 +1,6 @@
 ## Welcome to my profile👋
 
-- 👩🏼‍🎓 Pursuing my Software Development degree
-- 💻 Certificate in Web Computer Programming.
+- 👩🏼‍🎓 Pursuing my Bachelor's Degree in Software Development
+- 💻 Certificate in Web Computer Programming
 - 📊 Data Analytics course - Coderhouse
   
