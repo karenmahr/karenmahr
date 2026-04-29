@@ -10,5 +10,5 @@
 
 - 👩🏼‍🎓 Pursuing my Bachelor's Degree in Software Development
 - 💻 Certificate in Web Computer Programming
-- 📊 Data Analytics - Power BI, Tableau and SQL
+- 📊 Data Analytics - Power BI, Tableau and MySQL
   
